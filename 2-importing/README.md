@@ -1,4 +1,4 @@
-# Importing helpers
+# Importing FRZR methods
 ES6 modules:
 ```js
 import { el, text, svg, List, mount, mountBefore, replace, unmount, setChildren } from 'frzr';
