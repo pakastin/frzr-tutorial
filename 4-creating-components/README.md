@@ -38,3 +38,5 @@ class Hello {
 }
 ```
 ..you can use: update, mounting, mounted, unmounting, unmounted, remounting, remounted
+
+Next: Work in progress...
