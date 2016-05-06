@@ -20,3 +20,5 @@ var graphic = svg('svg',
   svg('circle', { cx: 50, cy: 50, r: 50 })
 );
 ```
+
+next: [Creating components](https://github.com/pakastin/frzr-tutorial/tree/master/4-creating-components)
