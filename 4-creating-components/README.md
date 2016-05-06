@@ -1,12 +1,13 @@
 # Creating components
 
-Components are just plain JS functions / classes. Only requirement is, that it must return an object, which has `el`-property.
+Components are just plain JS functions / classes. Only requirement is, that it must return an object, which has `el`-property. You can mix and match components and HTMLElements like you want.
 
 ES5:
 ```js
 function Hello () {
   this.el = el('h1', 'Hello world!');
 }
+mount(document.body, new Hello());
 ```
 
 ES6:
