@@ -42,3 +42,5 @@ mount(document.body, h1);
 
 console.log(render(document.body, true)); // with second parameter true renders just innerHTML 
 ```
+
+next: [Creating elements](https://github.com/pakastin/frzr-tutorial/tree/master/3-creating-elements)
