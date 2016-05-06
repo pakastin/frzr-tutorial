@@ -1,4 +1,5 @@
 # Installing FRZR
+Modern way:
 ```
 npm install frzr
 ```
